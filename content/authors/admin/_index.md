@@ -68,7 +68,7 @@ email: ""
 highlight_name: false
 ---
 
-Jamie Morris is an Associate Professor of Psychology at the Univesity of Virginia. He is interested in..... 
+Jamie Morris is an Associate Professor of Psychology at the Univesity of Virginia. He is interested in.................
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
