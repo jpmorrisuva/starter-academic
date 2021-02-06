@@ -18,9 +18,9 @@ bio: I'll fix this
 
 # Interests to show in About widget
 interests:
-- Interest
-- Interest 3
-- Interst 4
+- Social Perception
+- Functional Neuroimaging
+- Developmental Disorders
 
 
 # Education to show in About widget
