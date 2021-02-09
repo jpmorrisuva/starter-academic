@@ -8,11 +8,15 @@
   url = "#about"
   weight = 10
 
-
 [[main]]
   name = "Publications"
   url = "https://scholar.google.com/citations?user=ysx7DCsAAAAJ&hl=en"
-  weight = 50
+  weight = 20
+
+  [[main]]
+  name = "Projects"
+  url = "#project"
+  weight = 30
 
 [[main]]
   name = "Contact"
