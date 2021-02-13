@@ -55,9 +55,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+ - icon: cv
+ - icon_pack: ai
+ - link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "jpm5jb@virginia.edu"
@@ -66,7 +66,6 @@ email: "jpm5jb@virginia.edu"
 highlight_name: false
 ---
 
-I am an Associate Professor of Psychology at the Univesity of Virginia. Most of my work involves  identyifying and characterizing neural systems supporting social perception and social cognition. I am currently working on two broad projects in my lab. The first is a longitudinal investigation of neural development in preschool children. My collaborators and I are measuring biological and environmental factors that influence social development, lead to changes in neural systems supporting social cognition and support the emergence of prosocial beahvior. Of particular interest is the role of the endogenous oxytocin system. This system is epigenetically governed, modified by the environment and assocaited with many foundational social perceptual capabilities. The second major project in my lab is to identify variability in neural systems that is predictive of differens in social capabilities. Prior work in social cogntive neuroscience has done a good job defining neural systems involved in social perception, but attempts to relate variability in these systems with stable differences in social capabilities has been modest. This project is designed to address prior limitations with experimental design and data analysis. 
+I am an Associate Professor of Psychology at the Univesity of Virginia. My research seeks to identyify and characterize neural systems supporting social perception and social cognition. Over the course of my career, I have studied these processes in people of all ages, from inancy to old age. I have also studied how these systems are different in autism. I am currently working on two broad projects in my lab. The first is a longitudinal investigation of neural development in preschool children. My collaborators and I are measuring biological and environmental factors that influence social development, lead to changes in neural systems supporting social cognition and support the emergence of prosocial beahvior. Of particular interest is the role of the endogenous oxytocin system. This system is epigenetically governed, modified by the environment and assocaited with many foundational social perceptual capabilities. The second major project in my lab is to identify variability in neural systems predictive of differens in social capabilities. Prior work in social cogntive neuroscience has done a good job defining neural systems involved in social perception, but attempts to relate variability in these systems with stable differences in social capabilities has been modest. This project is designed to address prior limitations with experimental design and data analysis. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
