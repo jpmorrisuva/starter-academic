@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: To be built
+    tag: To be built
   - name: Other
     tag: Demo
 
