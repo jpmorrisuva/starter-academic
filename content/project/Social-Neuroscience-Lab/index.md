@@ -1,6 +1,6 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Social Neuroscience Lab
+summary: To learn more about the activities in my lab please visit the following link
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
