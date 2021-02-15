@@ -7,7 +7,7 @@ summary: Summary here
 external_link: ""
 
 image:
-  #caption: Photo by rawpixel on Unsplash
+  caption: DTI Image
   focal_point: Smart
 
 links:
