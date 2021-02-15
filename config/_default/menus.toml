@@ -10,7 +10,7 @@
 
 [[main]]
   name = "Lab"
-  url = "#project/internal-project"
+  url = "#project"
   weight = 20
 
 [[main]]
