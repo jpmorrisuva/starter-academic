@@ -6,11 +6,9 @@ summary: Summary here
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-{{<figure src="featured.jpg" title="A caption">}}
-
-#image:
-#  caption: DTI Image
-#  focal_point: Smart
+image:
+  caption: DTI Image
+  focal_point: Smart
 
 links:
 -#icon: twitter
