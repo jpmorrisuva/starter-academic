@@ -1,5 +1,5 @@
 ---
-title: Internal Project
+title: Social Neuroscience Lab
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
