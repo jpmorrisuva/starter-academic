@@ -13,13 +13,8 @@
   url = "https://uvasocialneuro.com"
   weight = 20
 
-[[main]]
-  name = "Bibliography"
-  url = "https://scholar.google.com/citations?user=ysx7DCsAAAAJ&hl=en"
-  weight = 30
-
   [[main]]
-  name = "Publications"
+  name = "Representative Publications"
   url = "#publications"
   weight = 50
 
