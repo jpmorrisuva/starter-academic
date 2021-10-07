@@ -11,12 +11,12 @@
 [[main]]
   name = "Lab"
   url = "https://uvasocialneuro.com"
-  weight = 20
+  weight = 30
 
   [[main]]
   name = "Representative Publications"
   url = "#publications"
-  weight = 50
+  weight = 20
 
 
 [[main]]
